@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/simonw/llm-echo/commit/83783687993a52b307c94e9db33a850bb50d0a37",
       "git:hexsha": "83783687993a52b307c94e9db33a850bb50d0a37",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.5"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.5",
+      "repolex:parsedAt": "2026-10-20T10:04:35.863721+00:00"
     },
     {
       "@id": "https://repolex.ai/r/simonw/llm-echo/commit/6c8deb8b2e3d10c0253bb2cb343901d5112caac1",
