@@ -1,0 +1,11 @@
+{
+  "org": "simonw",
+  "repo": "llm-echo",
+  "versions": [
+    {
+      "commit": "83783687993a52b307c94e9db33a850bb50d0a37",
+      "tag": "0.5",
+      "parsed_at": "2026-10-20T10:04:35.864187+00:00"
+    }
+  ]
+}
