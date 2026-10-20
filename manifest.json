@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "simonw",
+  "repo": "llm-echo",
+  "versions": [
+    {
+      "commit": "83783687993a52b307c94e9db33a850bb50d0a37",
+      "parsed_at": "2026-10-20T10:02:33.070659+00:00",
+      "tag": "0.5",
+      "filetree": "filetree/83783687993a52b307c94e9db33a850bb50d0a37.nq.gz",
+      "blobs": [
+        "blob/cc2ed04137813fe252e161e2cef7f88d6195ab10.nq.gz",
+        "blob/6988965c0fff6d9070362cebbff657ddd203f62a.nq.gz",
+        "blob/8eec563a4a6ad7ef438cbe23da0ce57413317943.nq.gz",
+        "blob/214b1aac2adfd73108cd47ddc48f991cbc6771c2.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/a228f9aabc26d4872e905346c763601746b6304f.nq.gz",
+        "blob/d0d5ce3ee8fa6494d61b4f902ee7d8de943e1b36.nq.gz",
+        "blob/61e1ff47a6ad081ca4b83aed4bcb0fc78184020d.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
